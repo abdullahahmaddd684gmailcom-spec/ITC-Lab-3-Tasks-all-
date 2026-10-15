@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+C:\Users\pc\source\repos\Task 4\dllmain.cpp(22,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
